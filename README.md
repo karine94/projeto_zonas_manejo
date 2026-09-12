@@ -28,4 +28,4 @@ Os dados utilizados neste projeto são reais, georreferenciados e foram obtidos 
 
 ## 🗺️ Mapa de Zonas de Manejo (QGIS)
 
-![Mapa de Zonas de Manejo](./docs/mapa_zonas_manejo.png)
+![Mapa de Zonas de Manejo](./data/docs/mapa_zonas_manejo.png)
